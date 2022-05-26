@@ -1,0 +1,37 @@
+.table-fixed {
+  width: 100%;
+}
+.table-fixed tbody {
+  height: 400px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+.table-fixed tbody td {
+  float: left;  
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.table-fixed thead tr th {
+  float: left;
+}
+
+
+.ui-widget-overlay {
+  opacity: 0.4;
+}
+
+.btn:disabled {
+  opacity: 0.3;
+}
+
+marked {
+  background-color: yellow;
+}
