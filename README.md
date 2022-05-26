@@ -8,6 +8,7 @@ This project is for the accomplishment of the technical recruitment process with
 
 ## Notes
  - Since it only used jQuery, no need for a server for this
+ - Data is temporarily stored in browser's localstorage
 
 ## Guide
  - Add button - add dialog will open
