@@ -7,7 +7,7 @@ This project is for the accomplishment of the technical recruitment process with
  - open index.html to your browser
 
 ## Notes
- - Since it only used jQuery, no need to server for this
+ - Since it only used jQuery, no need for a server for this
 
 ## Guide
  - Add button - add dialog will open
